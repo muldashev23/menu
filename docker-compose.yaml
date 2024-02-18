@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  postgres:
+    image: postgres:13.1-alpine
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=murat2602128Ag
+      - POSTGRES_DB=menu
+    ports:
+      - "5432:5432"

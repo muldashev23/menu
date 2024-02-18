@@ -1,0 +1,152 @@
+[
+  {
+    "Name": "Deluxe Light",
+    "Category": "Hookah",
+    "Price": 495,
+    "Info": "None"
+  },
+  {
+    "Name": "Dark Leaf",
+    "Category": "Hookah",
+    "Price": 545,
+    "Info": "None"
+  },
+  {
+    "Name": "HD Submarine",
+    "Category": "Hookah",
+    "Price": 515,
+    "Info": "None"
+  },
+  {
+    "Name": "Hi-tech Club Modern",
+    "Category": "Hookah",
+    "Price": 690,
+    "Info": "None"
+  },
+  {
+    "Name": "Tangiers",
+    "Category": "Hookah",
+    "Price": 595,
+    "Info": "None"
+  },
+  {
+    "Name": "HD Temple",
+    "Category": "Hookah",
+    "Price": 595,
+    "Info": "None"
+  },
+  {
+    "Name": "Grapefruit",
+    "Category": "HookahAdditions",
+    "Price": 100,
+    "Info": "None"
+  },
+  {
+    "Name": "Pineapple",
+    "Category": "HookahAdditions",
+    "Price": 200,
+    "Info": "None"
+  },
+  {
+    "Name": "Exclusive Hookahs",
+    "Category": "HookahAdditions",
+    "Price": 50,
+    "Info": "None"
+  },
+  {
+    "Name": "Grapefruit + Pineapple",
+    "Category": "HookahAdditions",
+    "Price": 400,
+    "Info": "None"
+  },
+  {
+    "Name": "Americano",
+    "Category": "Coffee",
+    "Price": 65,
+    "Info": "None"
+  },
+  {
+    "Name": "Espresso",
+    "Category": "Coffee",
+    "Price": 60,
+    "Info": "None"
+  },
+  {
+    "Name": "Cappucino",
+    "Category": "Coffee",
+    "Price": 75,
+    "Info": "None"
+  },
+  {
+    "Name": "Latte",
+    "Category": "Coffee",
+    "Price": 85,
+    "Info": "None"
+  },
+  {
+    "Name": "Frappe",
+    "Category": "Coffee",
+    "Price": 85,
+    "Info": "None"
+  },
+  {
+    "Name": "Mulled wine",
+    "Category": "HotAlco",
+    "Price": 95,
+    "Info": "None"
+  },
+  {
+    "Name": "Irish coffee",
+    "Category": "HotAlco",
+    "Price": 125,
+    "Info": "None"
+  },
+  {
+    "Name": "Classic tea 0,6L",
+    "Category": "Tea",
+    "Price": 95,
+    "Info": "Green, Black, Earl Grey, Ginger, Peppermint, Thyme, Chamomile"
+  },
+  {
+    "Name": "Classic tea 1L",
+    "Category": "Tea",
+    "Price": 155,
+    "Info": "Green, Black, Earl Grey, Ginger, Peppermint, Thyme, Chamomile"
+  },
+  {
+    "Name": "Pepsi",
+    "Category": "Soft",
+    "Price": 65,
+    "Info": "None"
+  },
+  {
+    "Name": "Mirinda",
+    "Category": "Soft",
+    "Price": 65,
+    "Info": "None"
+  },
+  {
+    "Name": "7-up",
+    "Category": "Soft",
+    "Price": 65,
+    "Info": "None"
+  },
+  {
+    "Name": "San Benedetto",
+    "Category": "Soft",
+    "Price": 65,
+    "Info": "None"
+  },
+  {
+    "Name": "Perrier",
+    "Category": "Soft",
+    "Price": 75,
+    "Info": "None"
+  },
+  {
+    "Name": "Red Bull",
+    "Category": "Soft",
+    "Price": 95,
+    "Info": "None"
+  }
+]
