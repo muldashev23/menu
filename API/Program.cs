@@ -13,6 +13,7 @@ builder.Services.AddDbContext<DataContext>(opt =>
         ?? builder.Configuration["ConnectionStrings:DefaultConnection"];
     opt.UseNpgsql(connectionString);
 });
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 var app = builder.Build();
 
