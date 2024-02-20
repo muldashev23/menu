@@ -3,150 +3,602 @@
     "Name": "Deluxe Light",
     "Category": "Hookah",
     "Price": 495,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "None"
   },
   {
     "Name": "Dark Leaf",
     "Category": "Hookah",
     "Price": 545,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "None"
   },
   {
     "Name": "HD Submarine",
     "Category": "Hookah",
     "Price": 515,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "None"
   },
   {
     "Name": "Hi-tech Club Modern",
     "Category": "Hookah",
     "Price": 690,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "None"
   },
   {
     "Name": "Tangiers",
     "Category": "Hookah",
     "Price": 595,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "None"
   },
   {
     "Name": "HD Temple",
     "Category": "Hookah",
     "Price": 595,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "None"
   },
   {
     "Name": "Grapefruit",
-    "Category": "HookahAdditions",
+    "Category": "Hookah",
     "Price": 100,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "Additions"
   },
   {
     "Name": "Pineapple",
-    "Category": "HookahAdditions",
+    "Category": "Hookah",
     "Price": 200,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "Additions"
   },
   {
     "Name": "Exclusive Hookahs",
-    "Category": "HookahAdditions",
+    "Category": "Hookah",
     "Price": 50,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "Additions"
   },
   {
     "Name": "Grapefruit + Pineapple",
-    "Category": "HookahAdditions",
+    "Category": "Hookah",
     "Price": 400,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "Additions"
   },
   {
     "Name": "Americano",
     "Category": "Coffee",
     "Price": 65,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "None"
   },
   {
     "Name": "Espresso",
     "Category": "Coffee",
     "Price": 60,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "None"
   },
   {
     "Name": "Cappucino",
     "Category": "Coffee",
     "Price": 75,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "None"
   },
   {
     "Name": "Latte",
     "Category": "Coffee",
     "Price": 85,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "None"
   },
   {
     "Name": "Frappe",
     "Category": "Coffee",
     "Price": 85,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "None"
   },
   {
     "Name": "Mulled wine",
-    "Category": "HotAlco",
+    "Category": "Cocktail",
     "Price": 95,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "HotAlco"
   },
   {
     "Name": "Irish coffee",
-    "Category": "HotAlco",
+    "Category": "Cocktail",
     "Price": 125,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "HotAlco"
   },
   {
     "Name": "Classic tea 0,6L",
     "Category": "Tea",
     "Price": 95,
-    "Info": "Green, Black, Earl Grey, Ginger, Peppermint, Thyme, Chamomile"
+    "Info": "Green / Black / Earl Grey / Ginger / Peppermint / Thyme / Chamomile",
+    "ExtraCategory": "Classic"
   },
   {
     "Name": "Classic tea 1L",
     "Category": "Tea",
     "Price": 155,
-    "Info": "Green, Black, Earl Grey, Ginger, Peppermint, Thyme, Chamomile"
+    "Info": "Green / Black / Earl Grey / Ginger / Peppermint / Thyme / Chamomile",
+    "ExtraCategory": "Classic"
   },
   {
     "Name": "Pepsi",
     "Category": "Soft",
     "Price": 65,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "None"
   },
   {
     "Name": "Mirinda",
     "Category": "Soft",
     "Price": 65,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "None"
   },
   {
     "Name": "7-up",
     "Category": "Soft",
     "Price": 65,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "None"
   },
   {
     "Name": "San Benedetto",
     "Category": "Soft",
     "Price": 65,
-    "Info": "None"
+    "Info": "Still Water",
+    "ExtraCategory": "None"
   },
   {
     "Name": "Perrier",
     "Category": "Soft",
     "Price": 75,
-    "Info": "None"
+    "Info": "Sparkling Water",
+    "ExtraCategory": "None"
   },
   {
     "Name": "Red Bull",
     "Category": "Soft",
     "Price": 95,
-    "Info": "None"
+    "Info": "None",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Schweppes",
+    "Category": "Soft",
+    "Price": 65,
+    "Info": "Tonic, Ginger Ale",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Granini Juice",
+    "Category": "Soft",
+    "Price": 65,
+    "Info": "Apple, Orange, Pineapple",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Asian",
+    "Category": "Tea",
+    "Price": 115,
+    "Info": "Darjeliing Black / Jasmine Dragon Pearls / Tie Kuan Yin / Milk Ooloong / Imperial Shu Pu-Erh",
+    "ExtraCategory": "Asian"
+  },
+  {
+    "Name": "Cranberries & Sea Buckthorn",
+    "Category": "Tea",
+    "Price": 115,
+    "Info": "None",
+    "ExtraCategory": "Special"
+  },
+  {
+    "Name": "Clitoria Ternatea",
+    "Category": "Tea",
+    "Price": 115,
+    "Info": "Premium Blue Tea",
+    "ExtraCategory": "Special"
+  },
+  {
+    "Name": "Berry Tea",
+    "Category": "Tea",
+    "Price": 165,
+    "Info": "Black tea, Forest Berries, Grenadine",
+    "ExtraCategory": "Special"
+  },
+  {
+    "Name": "Moroccan",
+    "Category": "Tea",
+    "Price": 155,
+    "Info": "Lime, Mint, Cinnamon, Clove, Anise",
+    "ExtraCategory": "Special"
+  },
+  {
+    "Name": "Fruit Tea",
+    "Category": "Tea",
+    "Price": 165,
+    "Info": "Apple, Mint, Lemon, Passion Fruit Syrup",
+    "ExtraCategory": "Special"
+  },
+  {
+    "Name": "Caramel Apple",
+    "Category": "Tea",
+    "Price": 175,
+    "Info": "Green Tea, Apple, Clove, Cinnamon, Caramel Syrup",
+    "ExtraCategory": "Special"
+  },
+  {
+    "Name": "Lemonade 380 ml",
+    "Category": "NonAlcoCoctails",
+    "Price": 115,
+    "Info": "Kiwi / Grapefruit-Ginger / Elderflower / Lemon / Berry / Mango-Passion Fruit / Raspberry",
+    "ExtraCategory": "Lemonades"
+  },
+  {
+    "Name": "Lemonade 1L",
+    "Category": "NonAlcoCoctails",
+    "Price": 185,
+    "Info": "Kiwi / Grapefruit-Ginger / Elderflower / Lemon / Berry / Mango-Passion Fruit / Raspberry",
+    "ExtraCategory": "Lemonades"
+  },
+  {
+    "Name": "Iced Tea",
+    "Category": "NonAlcoCoctails",
+    "Price": 105,
+    "Info": "Black Tea, Mint, Lemon, Peach Syrup, Grenadine",
+    "ExtraCategory": "Lemonades"
+  },
+  {
+    "Name": "Premium Blue Iced Tea",
+    "Category": "NonAlcoCoctails",
+    "Price": 125,
+    "Info": "Clitoria Ternatea(Blue Tea), Mint, Lemon, Peach Syrup, Grenadine",
+    "ExtraCategory": "Lemonades"
+  },
+  {
+    "Name": "Milkshakes",
+    "Category": "NonAlcoCoctails",
+    "Price": 115,
+    "Info": "Chocolate / Banana / Vanilla / Strawberry",
+    "ExtraCategory": "Lemonades"
+  },
+  {
+    "Name": "Virgin Mojito",
+    "Category": "NonAlcoCoctails",
+    "Price": 125,
+    "Info": "Mint, Lime, Sugar Syrup, Soda, Mojito Syrup",
+    "ExtraCategory": "Mocktails"
+  },
+  {
+    "Name": "Mojito Energy",
+    "Category": "NonAlcoCoctails",
+    "Price": 135,
+    "Info": "Mint, Lime, Energy Drink, Mojito Syrup",
+    "ExtraCategory": "Mocktails"
+  },
+  {
+    "Name": "Virgin Strawberry Mojito",
+    "Category": "NonAlcoCoctails",
+    "Price": 125,
+    "Info": "Mint, Lime, Strawberry Syrup, Soda, Mojito Syrup",
+    "ExtraCategory": "Mocktails"
+  },
+  {
+    "Name": "Virgin Colada",
+    "Category": "NonAlcoCoctails",
+    "Price": 125,
+    "Info": "Pineapple Juice, Coconout Syrup",
+    "ExtraCategory": "Mocktails"
+  },
+  {
+    "Name": "Watermelon Sling",
+    "Category": "NonAlcoCoctails",
+    "Price": 125,
+    "Info": "Watermelon Syrup, Peach Syrup, Mojito Syrup, Lime Juice, Soda",
+    "ExtraCategory": "Mocktails"
+  },
+  {
+    "Name": "Tropicana",
+    "Category": "NonAlcoCoctails",
+    "Price": 115,
+    "Info": "Pineapple Juice, Banana puree, Passion Fruit and Coconout Syrup",
+    "ExtraCategory": "Mocktails"
+  },
+  {
+    "Name": "Aperol Spritz",
+    "Category": "Cocktails",
+    "Price": 165,
+    "Info": "Aperol, Prosecco, Soda, Orange",
+    "ExtraCategory": "Sparkling"
+  },
+  {
+    "Name": "Martini Fiero & Tonic",
+    "Category": "Cocktails",
+    "Price": 165,
+    "Info": "Martini Fiero, Tonic, Orange",
+    "ExtraCategory": "Sparkling"
+  },
+  {
+    "Name": "Kir Royal",
+    "Category": "Cocktails",
+    "Price": 165,
+    "Info": "Prosecco, Creme de Cassis",
+    "ExtraCategory": "Sparkling"
+  },
+  {
+    "Name": "Aperol Rose Sour",
+    "Category": "Cocktails",
+    "Price": 175,
+    "Info": "Aperol, Pink Gin, Orange Juice, Lime Juice, Grapefruit Juice, Egg White",
+    "ExtraCategory": "Sparkling"
+  },
+  {
+    "Name": "Hugo",
+    "Category": "Cocktails",
+    "Price": 185,
+    "Info": "Prosecco, Elderflower",
+    "ExtraCategory": "Sparkling"
+  },
+  {
+    "Name": "Regal Sour",
+    "Category": "Cocktails",
+    "Price": 165,
+    "Info": "Jagermeister, Egg White, Lemon, Sugar",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Classic Margarita",
+    "Category": "Cocktails",
+    "Price": 165,
+    "Info": "Tequila, Triple Sec, Lime Syrup",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Tequila Sunrise",
+    "Category": "Cocktails",
+    "Price": 175,
+    "Info": "Tequila, Triple Sec, Orange Juice, Grenadine Syrup",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Margarita Bulldog",
+    "Category": "Cocktails",
+    "Price": 255,
+    "Info": "Tequila, Corona Beer, Triple Sec, Orange Juice, Lemon Juice, Lime Syrup",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Foggy Special Margarita",
+    "Category": "Cocktails",
+    "Price": 225,
+    "Info": "Tequila, Creme de Cassis, Raspberry, Blueberry, Lime Syrup",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "El Diablo",
+    "Category": "Cocktails",
+    "Price": 175,
+    "Info": "Tequila, Creme de Cassis, Ginger Ale, Lime Syrup",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Frosen Margarita",
+    "Category": "Cocktails",
+    "Price": 215,
+    "Info": "Tequila, Triple Sec, Lime Syrup",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Sex on the Beach",
+    "Category": "Cocktails",
+    "Price": 175,
+    "Info": "Vodka, Orange Juice, Cranberry Juice, Peach Liquor, Grenadine",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Blue Lagoon",
+    "Category": "Cocktails",
+    "Price": 175,
+    "Info": "Vodka, Blue Curacao, Lime Syrup, 7UP",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Moscow Mule",
+    "Category": "Cocktails",
+    "Price": 185,
+    "Info": "Vodka, Ginger Ale, Lime Syrup",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "White Russian",
+    "Category": "Cocktails",
+    "Price": 165,
+    "Info": "Vodka, Coffee and Creme Liquor",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Orgasm",
+    "Category": "Cocktails",
+    "Price": 165,
+    "Info": "Vodka, Coffee and Creme Liquor",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Cosmopolitan",
+    "Category": "Cocktails",
+    "Price": 165,
+    "Info": "Vodka, Cranberry Juice, Triple Sec, Lime Syrup",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Mojito",
+    "Category": "Cocktails",
+    "Price": 175,
+    "Info": "White Rum, Mint, Lime, Sugar Syrup, Soda, Mojito Syrup",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Strawberry Mojito",
+    "Category": "Cocktails",
+    "Price": 185,
+    "Info": "White Rum, Mint, Lime, Strawberry Syrup, Soda, Mojito Syrup",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Black Pearl",
+    "Category": "Cocktails",
+    "Price": 175,
+    "Info": "Black Rum, Coconut Rum, Lime Syrup, Pepsi",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Cuba Libre",
+    "Category": "Cocktails",
+    "Price": 165,
+    "Info": "White Rum, Lime Syrup, Pepsi, Lime",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Kiwi Fusion",
+    "Category": "Cocktails",
+    "Price": 175,
+    "Info": "White Rum, Kiwi, Orange Juice, Lime Syrup, Soda, Mint, Lime",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Raffaello",
+    "Category": "Cocktails",
+    "Price": 155,
+    "Info": "Coconut Rum, Creme Liquor, Vanilla Syrup, Coconut Syrup, Creme",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Pina Colada",
+    "Category": "Cocktails",
+    "Price": 175,
+    "Info": "White Rum, Coconut Rum, Pineapple Juice, Coconut Syrup, Creme",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Dark n Stormy",
+    "Category": "Cocktails",
+    "Price": 165,
+    "Info": "Black Rum, Ginger Ale, Lime Syrup",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Mai Tai",
+    "Category": "Cocktails",
+    "Price": 185,
+    "Info": "White Rum, Black Rum, Gold Rum, Lime Syrup, Triple Sec, Pineapple Juice, Amaretto",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Gin & Tonic",
+    "Category": "Cocktails",
+    "Price": 165,
+    "Info": "Gin, Tonic, Lime",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Tanqueray & Tonic",
+    "Category": "Cocktails",
+    "Price": 165,
+    "Info": "Gin 'Tanqueray', Tonic, Lime",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Clover Club",
+    "Category": "Cocktails",
+    "Price": 175,
+    "Info": "Gin, Raspberry Puree, Egg White",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Negroni",
+    "Category": "Cocktails",
+    "Price": 175,
+    "Info": "Gin, Sweet Vermouth, Campari",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Gin Fizz",
+    "Category": "Cocktails",
+    "Price": 155,
+    "Info": "Gin, Lime Syrup, Sugar Syrup, Lime, Soda",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Pornstar Martini",
+    "Category": "Cocktails",
+    "Price": 185,
+    "Info": "Vodka, Passion Fruit Puree, Vanilla Syrup, Prosecco, Lime",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Whiskey Sour",
+    "Category": "Cocktails",
+    "Price": 165,
+    "Info": "Whiskey, Angostura, Sugar, Egg White, Lemon",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Old Fashioned",
+    "Category": "Cocktails",
+    "Price": 175,
+    "Info": "Bourbon, Sugar Syrup, Lemon Juice",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Lynchburg Lemonade",
+    "Category": "Cocktails",
+    "Price": 175,
+    "Info": "Jack Daniels, Triple Sec, Sugar Syrup, Soda, Lime Syrup",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Long Island",
+    "Category": "Cocktails",
+    "Price": 225,
+    "Info": "Tequila, Gin, White Rum, Vodka, Triple Sec, Lime Syrup, Pepsi",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Adios Mazafaka",
+    "Category": "Cocktails",
+    "Price": 225,
+    "Info": "Tequila, Gin, White Rum, Vodka, Blue Curacao, Lime Syrup, 7Up",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Green Fair",
+    "Category": "Cocktails",
+    "Price": 235,
+    "Info": "Tequila, Absinth, White Rum, Vodka, Blue Curacao, Lime Syrup, Energy Drink",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Caipirinha",
+    "Category": "Cocktails",
+    "Price": 175,
+    "Info": "Cachaca, Lime Syrup, Sugar Syrup, Lime",
+    "ExtraCategory": "None"
+  },
+  {
+    "Name": "Skinny Bitch",
+    "Category": "Cocktails",
+    "Price": 175,
+    "Info": "Vodka, Lime Juice, Soda, Lime",
+    "ExtraCategory": "None"
   }
 ]
